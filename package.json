@@ -1,5 +1,8 @@
 {
   "name": "self-monorepo",
   "private": true,
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
